@@ -3,9 +3,13 @@
 
 int main()
 {
-    int a1 = 5, b = 2, y;
-    y = a + b;
-    printf("5+5 = %d", y);
+    int a1 = 5; //желаемая оценка
+    int b = 2;  //НЕжелаемая оценка
+    int y;
+    y = a1 + b;
+    printf("a = %d", a1); 
+    printf("\nb = %d", b); 
+    printf("\na + b = %d", y);
 
 
 }
