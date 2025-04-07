@@ -3,6 +3,7 @@
 
 int main()
 {
+  int arr[10] = { 5, -3, 0, 7, -8, 12, -1, 4, -6, 9 };
     int a1 = 5; //желаемая оценка
     int b = 2;  //НЕжелаемая оценка
     int y;
@@ -11,6 +12,11 @@ int main()
     printf("\nb = %d", b); 
     printf("\na + b = %d", y);
 
-
+    printf("Отрицательные числа в массиве:\n");
+    for (int i = 0; i < 10; i++) {
+      if (arr[i] < 0) {
+        printf("%d ", arr[i]);
+      }
+    }
 }
 

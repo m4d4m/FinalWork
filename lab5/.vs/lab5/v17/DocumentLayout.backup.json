@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cekld\\Desktop\\24vvv1\\Kris\\FinalWork\\lab5\\",
+  "WorkspaceRootPath": "D:\\Documents\\Laboratory\\ITPD\\8Lab\\FinalWork\\lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE26639F-7242-4E9C-84E7-74ED2ECFB5F3}|lab5.vcxproj|C:\\Users\\cekld\\Desktop\\24vvv1\\Kris\\FinalWork\\lab5\\lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BE26639F-7242-4E9C-84E7-74ED2ECFB5F3}|lab5.vcxproj|D:\\Documents\\Laboratory\\ITPD\\8Lab\\FinalWork\\lab5\\lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE26639F-7242-4E9C-84E7-74ED2ECFB5F3}|lab5.vcxproj|solutionrelative:lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab5.cpp",
-              "DocumentMoniker": "C:\\Users\\cekld\\Desktop\\24vvv1\\Kris\\FinalWork\\lab5\\lab5.cpp",
+              "DocumentMoniker": "D:\\Documents\\Laboratory\\ITPD\\8Lab\\FinalWork\\lab5\\lab5.cpp",
               "RelativeDocumentMoniker": "lab5.cpp",
-              "ToolTip": "C:\\Users\\cekld\\Desktop\\24vvv1\\Kris\\FinalWork\\lab5\\lab5.cpp*",
-              "RelativeToolTip": "lab5.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ToolTip": "D:\\Documents\\Laboratory\\ITPD\\8Lab\\FinalWork\\lab5\\lab5.cpp",
+              "RelativeToolTip": "lab5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-06T22:40:05.499Z",
               "EditorCaption": ""
